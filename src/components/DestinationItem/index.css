@@ -1,0 +1,17 @@
+.destination-image {
+  width: 250px;
+  cursor: pointer;
+}
+
+.heading {
+  font-size: 25px;
+  max-width: 250px;
+  cursor: pointer;
+}
+
+.destination-item {
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
